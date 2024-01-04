@@ -1,0 +1,7 @@
+port: 9999
+debugMode: true
+
+jwt:
+    symmetricKey: 
+    accessTokenDuration: 1d
+    refreshTokenDuration: 3d

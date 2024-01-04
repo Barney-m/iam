@@ -1,0 +1,15 @@
+port: 9999
+debugMode: true
+
+jwt:
+    symmetricKey: 
+    accessTokenDuration: 
+    refreshTokenDuration: 
+
+db:
+    mariadb:
+        host: 
+        port: 
+        dbname: 
+        user: 
+        password: 
